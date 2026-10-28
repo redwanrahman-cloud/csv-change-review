@@ -1,6 +1,6 @@
 # Third-party notices
 
-Built on the official [Agent-Native](https://github.com/BuilderIO/agent-native) standalone chat scaffold (Core 0.220.0). Its MIT copyright/permission notice is retained in licenses/AGENT-NATIVE-MIT.txt. Official scaffold/library code is pre-existing work; CSV comparison, review storage, proposal staging, draft recovery and review UI were developed for this entry beginning 27 October 2026 with AI coding assistance.
+Built on the official [Agent-Native](https://github.com/BuilderIO/agent-native) standalone chat scaffold (Core 0.220.0). Its MIT copyright/permission notice is retained in licenses/AGENT-NATIVE-MIT.txt. Official scaffold/library code is pre-existing work; CSV comparison, review storage, proposal staging, draft recovery and review UI were developed for this entry beginning 27 October 2026.
 
 Major installed dependency inventory at verification time (not a complete transitive-license audit):
 
