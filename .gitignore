@@ -1,0 +1,17 @@
+**/node_modules/
+**/.git/
+**/.env
+**/.env.*
+!**/.env.example
+**/data/
+**/.agent-native/
+**/.generated/
+**/.react-router/
+**/.output/
+**/.nitro/
+**/dist/
+**/build/
+**/*.log
+**/*.lock
+!**/pnpm-lock.yaml
+**/.tmp/
